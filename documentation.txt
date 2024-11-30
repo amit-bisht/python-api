@@ -1,0 +1,2 @@
+******** Run this command before running the project *****************
+pip install -r requirements.txt
